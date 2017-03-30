@@ -1,0 +1,21 @@
+{
+  "name": "RASHvideoView",
+  "version": "0.1.0",
+  "summary": "This is inspired by spotify intro video , I decide to create one",
+  "description": "This is inspired by spotify intro video , I decide to create one that delegate to otherviews and use specially for intro",
+  "homepage": "https://github.com/rash1ironpunch@Gmail.com/RASHvideoView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": "rash1ironpunch@Gmail.com",
+  "source": {
+    "git": "https://github.com/rash1ironpunch@Gmail.com/RASHvideoView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RASHvideoView/Classes/**/*",
+  "frameworks": "AVFoundation"
+}

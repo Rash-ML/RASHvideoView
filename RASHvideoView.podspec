@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RASHvideoView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RASHvideoView.'
+  s.summary          = 'This is inspired by spotify intro video , I decide to create one '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This is inspired by spotify intro video , I decide to create one that delegate to otherviews and use specially for intro
                        DESC
 
   s.homepage         = 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'rash1ironpunch@Gmail.com' => 'arash.lavasani@tap30co.com' }
+  s.author           = 'rash1ironpunch@Gmail.com'
   s.source           = { :git => 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+   s.frameworks = 'AVFoundation'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

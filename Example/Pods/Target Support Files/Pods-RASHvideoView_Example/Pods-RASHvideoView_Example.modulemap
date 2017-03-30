@@ -1,0 +1,6 @@
+framework module Pods_RASHvideoView_Example {
+  umbrella header "Pods-RASHvideoView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

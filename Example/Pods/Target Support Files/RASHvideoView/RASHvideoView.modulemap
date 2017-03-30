@@ -1,0 +1,6 @@
+framework module RASHvideoView {
+  umbrella header "RASHvideoView-umbrella.h"
+
+  export *
+  module * { export * }
+}
