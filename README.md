@@ -22,7 +22,7 @@ pod "RASHvideoView"
 
 ## Author
 
-rash1ironpunch@Gmail.com, arash.lavasani@tap30co.com
+rash1ironpunch@Gmail.com
 
 ## License
 

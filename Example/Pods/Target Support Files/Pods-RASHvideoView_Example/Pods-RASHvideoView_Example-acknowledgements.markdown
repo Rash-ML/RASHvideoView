@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## RASHvideoView
 
-Copyright (c) 2017 rash1ironpunch@Gmail.com <arash.lavasani@tap30co.com>
+Copyright (c) 2017 rash1ironpunch@Gmail.com 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
