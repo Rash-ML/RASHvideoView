@@ -24,7 +24,7 @@ This is inspired by spotify intro video , I decide to create one that delegate t
   s.homepage         = 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = 'rash1ironpunch@Gmail.com'
+  s.author           =  'rash1ironpunch@Gmail.com'
   s.source           = { :git => 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
