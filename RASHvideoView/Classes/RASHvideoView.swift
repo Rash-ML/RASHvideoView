@@ -21,7 +21,9 @@ public class RASHvideoView: UIView {
     var dimView: UIView!
     
     
-    convenience init(url: URL) {
+    
+    
+    public init(url: URL) {
         self.init()
         if self != nil {
             
@@ -38,6 +40,10 @@ public class RASHvideoView: UIView {
             //create Dim View
             self.dimView = UIView(frame: self.bounds)
             dimView.backgroundColor = UIColor.black.withAlphaComponent(0.4)
+            
+            
+            
+            prepareVideoView()
             
         }
         
