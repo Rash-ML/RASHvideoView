@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 This is inspired by spotify intro video , I decide to create one that delegate to otherviews and use specially for intro
                        DESC
 
-  s.homepage         = 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView'
+  s.homepage         = 'https://github.com/Rash-ML/RASHvideoView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           =  'rash1ironpunch@Gmail.com'
-  s.source           = { :git => 'https://github.com/rash1ironpunch@Gmail.com/RASHvideoView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Rash-ML/RASHvideoView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
